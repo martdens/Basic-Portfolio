@@ -1,0 +1,44 @@
+   
+   body {background-color: #f4d742;}
+   img{width: 200;
+   height:300;
+   cener;}
+   #h1{color:blue; font-size:30;}
+	  
+	  #box1 {
+	  float:right; 
+	  height:300px;
+	  width: 300px;
+	  background-color: green;
+	  margin: 5px;
+	  border-radius:30px;
+	  align-content: center;
+	  }
+	  
+	  
+	  #box2 {
+	  float:left;
+	  height:300px;
+	  width: 300px;
+	  background-color: green;
+	  margin: 5px
+	  border-radius: 30px;
+	  align-content: center;
+	  }
+   
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+   </body>
+
+</html>
